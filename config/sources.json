@@ -1,0 +1,10 @@
+{
+  "lmsys": {
+    "url": "https://api.example.com/lmsys/benchmarks",
+    "type": "json"
+  },
+  "huggingface": {
+    "url": "https://api.example.com/hf/benchmarks",
+    "type": "json"
+  }
+}
